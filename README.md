@@ -1,5 +1,5 @@
 ## Instructions
-- `npm install`
+- `npm i`
 - `npm start`
 - pull up `http://localhost:3000`
 
